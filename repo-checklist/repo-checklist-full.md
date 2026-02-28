@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Iakov Kirilenko
+SPDX-License-Identifier: CC-BY-4.0
+-->
+
 # Чеклист по оформлению репозитория
 
 ## Основной чеклист
